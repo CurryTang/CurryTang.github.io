@@ -21,8 +21,6 @@ Hello everyone, my name is Zhikai Chen. Currently, I am a third-year Ph.D. stude
 
 My research interest includes graph machine learning and large language models. Specifically, my current research is mainly about the development of **graph foundation model**. 
 
-💻 We are hosting a workshop on graph foundation models at WWW 2024 https://www.www24gfm.com/ and look forward to your submission!  
-
 # 📝 Publications 
 
 ## 📝 Preprints
