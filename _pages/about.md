@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello everyone, my name is Zhikai Chen. Currently, I am a ~~first~~second-year Ph.D. student from Michigan State University, supervised by [Professor Jiliang Tang](https://www.cse.msu.edu/~tangjili/). Previously, I received both of my bachelor and master degree from Shanghai Jiao Tong University. 
+Hello everyone, my name is Zhikai Chen. Currently, I am a third-year Ph.D. student from Michigan State University, supervised by [Professor Jiliang Tang](https://www.cse.msu.edu/~tangjili/). Previously, I received both of my bachelor and master degree from Shanghai Jiao Tong University. 
 
 My research interest includes graph machine learning and large language models. Specifically, my current research is mainly about the development of **graph foundation model**. 
 
