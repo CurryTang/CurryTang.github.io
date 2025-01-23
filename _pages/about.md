@@ -30,6 +30,8 @@ Haitao Mao, Hui Liu, Xiaorui Liu, Dawei Yin, Qing Li 2024
 - [Enhancing ID and Text Fusion via Alternative Training in Session-based Recommendation](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=6hUny38AAAAJ&citation_for_view=6hUny38AAAAJ:kNdYIx-mwKoC) Juanhui Li, Haoyu Han, **Zhikai Chen**, Harry Shomer, Wei Jin, Amin Javari, Jiliang Tang 2024
 
 ## 📝 Published
+- [Improving Causal Reasoning in Large Language Models: A Survey](https://arxiv.org/abs/2410.16676) Longxuan Yu, Delin Chen, Siheng Xiong, Qingyang Wu, Dawei Li, Zhikai Chen, Xiaoze Liu, Liangming Pan; NAACL 2025 
+- AutoG: Towards automatic graph construction from tabular data Zhikai Chen, Han Xie, Jian Zhang, Xiang song, Jiliang Tang, Huzefa Rangwala, George Karypis; ICLR 2025 (poster) (camera ready version coming soon, code may need some time to be reviewed)
 - [A Pure Transformer Pretraining Framework on Text-attributed Graphs](https://arxiv.org/abs/2406.13873) Yu Song, Haitao Mao, Jiachen Xiao, Jingzhe Liu, **Zhikai Chen**, Wei Jin, Carl Yang, Jiliang Tang, Hui Liu; LOG 2024 (poster)
 - [Neural Scaling Laws on Graphs](https://arxiv.org/abs/2402.02054) Jingzhe Liu, Haitao Mao, **Zhikai Chen**, Tong Zhao, Neil Shah, Jiliang Tang; LOG 2024 (poster)
 - [Text-space Graph Foundation Models: Comprehensive Benchmarks and New Insights](https://arxiv.org/abs/2406.10727) **Zhikai Chen**, Haitao Mao, Jingzhe Liu, Yu Song, Bingheng Li, Wei Jin, Bahare Fatemi, Anton Tsitsulin, Bryan Perozzi, Hui Liu, Jiliang Tang [Code](https://github.com/CurryTang/TSGFM); NeurIPS 2024 Datasets and Benchmarks Track (poster)
