@@ -30,7 +30,7 @@ My research interest generally lies in understanding the mechanism of graph mach
 ## 📝 Published
 - [Unveiling Mode Connectivity in Graph Neural Networks](https://arxiv.org/abs/2502.12608) Bingheng Li, **Zhikai Chen**, Haoyu Han, Shenglai Zeng, Jingzhe Liu, Jiliang Tang; KDD 2025
 - [Graph Machine Learning in the Era of Large Language Models (LLMs)](https://arxiv.org/pdf/2404.14928) Wenqi Fan, Shijie Wang, Jiani Huang, **Zhikai Chen**, Yu Song, Wenzhuo Tang,
-Haitao Mao, Hui Liu, Xiaorui Liu, Dawei Yin, Qing Li 2024; IEEE TKDE
+Haitao Mao, Hui Liu, Xiaorui Liu, Dawei Yin, Qing Li 2024; ACM TIST
 - [Improving Causal Reasoning in Large Language Models: A Survey](https://arxiv.org/abs/2410.16676) Longxuan Yu, Delin Chen, Siheng Xiong, Qingyang Wu, Dawei Li, **Zhikai Chen**, Xiaoze Liu, Liangming Pan; NAACL 2025 
 - AutoG: Towards automatic graph construction from tabular data **Zhikai Chen**, Han Xie, Jian Zhang, Xiang Song, Jiliang Tang, Huzefa Rangwala, George Karypis; ICLR 2025 (poster) [Code](https://github.com/amazon-science/Automatic-Table-to-Graph-Generation)
 - [A Pure Transformer Pretraining Framework on Text-attributed Graphs](https://arxiv.org/abs/2406.13873) Yu Song, Haitao Mao, Jiachen Xiao, Jingzhe Liu, **Zhikai Chen**, Wei Jin, Carl Yang, Jiliang Tang, Hui Liu; LOG 2024 (poster)
